@@ -1,0 +1,22 @@
+abstract final class Routes {
+  static const welcome = '/welcome',
+      signIn = '/sign-in',
+      password = '/password',
+      forgot = '/forgot-password',
+      signUp = '/sign-up',
+      phone = '/phone',
+      verify = '/verify',
+      notifications = '/notifications',
+      location = '/location',
+      home = '/home',
+      categories = '/categories',
+      products = '/products',
+      detail = '/detail',
+      cart = '/cart',
+      checkout = '/checkout',
+      profile = '/profile',
+      changePassword = '/change-password',
+      shipping = '/shipping',
+      payment = '/payment',
+      favorites = '/favorites';
+}

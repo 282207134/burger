@@ -1,0 +1,12 @@
+[
+  {
+    "file": "burger-arm64-v8a.apk",
+    "bytes": 22676295,
+    "sha256": "972724adb236a40f4e409c9d104e39acca405d9ddc61b62eadc334b34365004f"
+  },
+  {
+    "file": "burger-x86_64.apk",
+    "bytes": 24160067,
+    "sha256": "2ee95ba2f011fabee6db32f7474ceb8ced86647c1dbc9f99e1e7cf819ab4eb5d"
+  }
+]
